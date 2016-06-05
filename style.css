@@ -1,0 +1,10 @@
+#header{
+  height: 100px;
+  color: orange;
+}
+body {
+  font-family: Arial;
+}
+.glyphicon {
+  font-size: 40px;
+}
