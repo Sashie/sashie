@@ -1,8 +1,10 @@
 #header{
   height: 160px;
   color: orange;
+  background-color: #008080;
 }
 body {
+  background-color: #008080;
   color: orange;
   font-family: Arial;
 }
