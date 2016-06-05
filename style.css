@@ -3,6 +3,11 @@
   color: orange;
   background-color: #5E8EA5;
 }
+nav {
+  background-color: #827C79;
+  color: #F25805;
+  font-family: Arial;
+}
 body {
   background-color: #77AEF7;
   color: #F25805;
